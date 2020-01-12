@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-12T21:03:15.264Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="dXgOJz00sYKLhutT3Vm4" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-12T21:03:45.053Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="1PrGqTOsBVmvFWryJA7h" version="12.5.1" type="github">
   <diagram id="aVEWG8cjJf9Gxxrswu7k" name="Page-1">
     <mxGraphModel dx="772" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
           <mxGeometry x="290" y="830" width="98" height="98" as="geometry"/>
         </mxCell>
         <mxCell id="DoFqc-4j_FSao7WNbRP5-1" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Visual Signal&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="140" y="750" width="110" height="20" as="geometry"/>
+          <mxGeometry x="120" y="770" width="110" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="DoFqc-4j_FSao7WNbRP5-2" value="&lt;font style=&quot;font-size: 17px&quot;&gt;pupil position&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="170" y="610" width="110" height="20" as="geometry"/>
@@ -47,6 +47,9 @@
         </mxCell>
         <mxCell id="xE8J_TVKheGs-PXvTI5i-4" value="&lt;span id=&quot;docs-internal-guid-b947add7-7fff-3c34-f870-ee045d7527ad&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline ; white-space: pre-wrap&quot;&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;Exterior Camera&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="280" y="460" width="130" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="R3OD7dJ-SccZQyn8wSnz-2" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Visual Signal&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="470" y="480" width="110" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
