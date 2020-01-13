@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-13T00:20:46.641Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="Glks-nvTZ7z8GtPskfXu" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-13T19:12:52.591Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="J7lzltMEsWme2Vr-NSFc" version="12.5.1" type="github">
   <diagram id="5gD-OjiCcMW-OboH49Tn" name="Page-1">
-    <mxGraphModel dx="1287" dy="803" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1103" dy="689" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -157,6 +157,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="646.308" y="558.6360000000002" as="sourcePoint"/>
             <mxPoint x="660.0000000000002" y="630" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yNUQ4REqKbH_PLqFoBqD-52" value="Half-transparent&lt;br&gt;reflective plate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="447" y="787" width="153" height="52" as="geometry"/>
+        </mxCell>
+        <mxCell id="yNUQ4REqKbH_PLqFoBqD-53" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=-0.041;exitY=0.577;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="yNUQ4REqKbH_PLqFoBqD-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="572.404" y="622.8199999999999" as="sourcePoint"/>
+            <mxPoint x="343" y="717" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
       </root>
