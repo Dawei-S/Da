@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-11T12:11:47.296Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="G9GZZvL7yO7KGQdn58By" version="20.8.20" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-11T12:16:25.817Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="1bhrS0d3EhtU6i1fLC-d" version="20.8.20" type="github" pages="3">
   <diagram name="CAN bus" id="xhp-JXf3OELfphHlDZzh">
     <mxGraphModel dx="1621" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,11 +100,17 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="P_kxV2bKmOUlfsgxmIzS" name="Page-2">
+  <diagram id="P_kxV2bKmOUlfsgxmIzS" name="Software layer">
     <mxGraphModel dx="794" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="twXjIvkrmgGV8q7aIQYf-24" value="Docker" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;size=0.0392156862745098;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="110" y="60" width="510" height="171" as="geometry" />
+        </mxCell>
+        <mxCell id="twXjIvkrmgGV8q7aIQYf-23" value="OS kernel" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;size=0.0392156862745098;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="110" y="250" width="510" height="210" as="geometry" />
+        </mxCell>
         <mxCell id="twXjIvkrmgGV8q7aIQYf-5" value="ACEL SDK" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="260" y="170" width="200" height="50" as="geometry" />
         </mxCell>
@@ -145,9 +151,23 @@
         </mxCell>
         <mxCell id="twXjIvkrmgGV8q7aIQYf-21" value="CAN data frames" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="twXjIvkrmgGV8q7aIQYf-20">
           <mxGeometry x="0.2099" y="-1" relative="1" as="geometry">
-            <mxPoint x="53" y="10" as="offset" />
+            <mxPoint x="53" y="30" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="twXjIvkrmgGV8q7aIQYf-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="twXjIvkrmgGV8q7aIQYf-26" target="twXjIvkrmgGV8q7aIQYf-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="twXjIvkrmgGV8q7aIQYf-26" value="App" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="260" y="80" width="200" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="lBZun6fLgKuA1-FjI9w9" name="Page-3">
+    <mxGraphModel dx="794" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
