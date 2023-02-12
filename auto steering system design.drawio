@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-12T03:33:46.853Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="1YOyFtuHqsdVVr6_zsPY" version="20.8.20" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-02-12T03:36:58.479Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Hd9MPJcQp0GajfqHUNPU" version="20.8.20" type="github" pages="3">
   <diagram name="CAN bus" id="xhp-JXf3OELfphHlDZzh">
     <mxGraphModel dx="1621" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,11 +6,11 @@
         <mxCell id="1" parent="0" />
         <mxCell id="HYOHnKEq6Wh98C0SEMnV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="HYOHnKEq6Wh98C0SEMnV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="180" as="sourcePoint" />
+            <mxPoint x="200" y="150" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HYOHnKEq6Wh98C0SEMnV-5" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="140" y="162" width="130" height="90" as="geometry" />
+          <mxGeometry x="240" y="132" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HYOHnKEq6Wh98C0SEMnV-10" value="" style="group" parent="HYOHnKEq6Wh98C0SEMnV-5" vertex="1" connectable="0">
           <mxGeometry width="130" height="89.99999999999999" as="geometry" />
@@ -56,10 +56,13 @@
             <mxPoint x="-50" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HYOHnKEq6Wh98C0SEMnV-28" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="HYOHnKEq6Wh98C0SEMnV-4" edge="1">
+        <mxCell id="HYOHnKEq6Wh98C0SEMnV-28" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="HYOHnKEq6Wh98C0SEMnV-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="205" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="sourcePoint" />
             <mxPoint x="430" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="177" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HYOHnKEq6Wh98C0SEMnV-29" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="HYOHnKEq6Wh98C0SEMnV-13" edge="1">
@@ -69,7 +72,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HYOHnKEq6Wh98C0SEMnV-33" value="&lt;font color=&quot;#000000&quot;&gt;Sensors&lt;/font&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/users/sensor.svg;" parent="1" vertex="1">
-          <mxGeometry x="40" y="150" width="60" height="60" as="geometry" />
+          <mxGeometry x="140" y="120" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYOHnKEq6Wh98C0SEMnV-38" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -85,6 +88,18 @@
         </mxCell>
         <mxCell id="HYOHnKEq6Wh98C0SEMnV-40" value="OS" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/logo-s-icon-pack-collection/517/linux-128.png;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="500" y="362" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="4IIPuzHCMUFEDcBLiIgR-1" value="ADAS system" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="222" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4IIPuzHCMUFEDcBLiIgR-3" value="HMI" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/28.Tablet-128.png" vertex="1" parent="1">
+          <mxGeometry x="670" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4IIPuzHCMUFEDcBLiIgR-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HYOHnKEq6Wh98C0SEMnV-35" target="4IIPuzHCMUFEDcBLiIgR-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="360" as="sourcePoint" />
+            <mxPoint x="520" y="310" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
