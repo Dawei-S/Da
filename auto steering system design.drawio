@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-12T10:37:35.531Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ar9iuLmIltGn6AqhXP7u" version="20.8.20" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-02-12T10:40:33.018Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="s9X088c6b_bCatJAB2wO" version="20.8.20" type="github" pages="3">
   <diagram name="CAN bus" id="xhp-JXf3OELfphHlDZzh">
     <mxGraphModel dx="1886" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -145,7 +145,7 @@
         <mxCell id="twXjIvkrmgGV8q7aIQYf-9" value="CAN bus API (Low level API)" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="260" y="270" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="twXjIvkrmgGV8q7aIQYf-11" value="CAN bus driver" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="twXjIvkrmgGV8q7aIQYf-11" value="&lt;a style=&quot;text-decoration:none;&quot; href=&quot;https://www.csselectronics.com/products/j1939-dbc-file&quot;&gt;&lt;/a&gt;Driver (DBC)" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="260" y="370" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="twXjIvkrmgGV8q7aIQYf-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
