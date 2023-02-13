@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T05:57:48.997Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="aKdbZDs3d_INrsF5cSvk" version="20.8.20" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-02-13T05:58:24.829Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="iEk2R6_BNpYmWbFz6mMt" version="20.8.20" type="github" pages="5">
   <diagram name="CAN bus" id="xhp-JXf3OELfphHlDZzh">
     <mxGraphModel dx="1621" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -227,8 +227,8 @@
         <mxCell id="0iNk8fIJgdGPnu5eEhW5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0iNk8fIJgdGPnu5eEhW5-8" target="0iNk8fIJgdGPnu5eEhW5-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0iNk8fIJgdGPnu5eEhW5-8" value="ADAS" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;verticalAlign=top;align=left;spacingTop=15;spacingLeft=15;" vertex="1" parent="1">
-          <mxGeometry x="500" y="95" width="70" height="35" as="geometry" />
+        <mxCell id="0iNk8fIJgdGPnu5eEhW5-8" value="ADAS" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;verticalAlign=middle;align=center;spacingTop=0;spacingLeft=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="90" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="0iNk8fIJgdGPnu5eEhW5-9" value="motor control unit" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;verticalAlign=top;align=left;spacingTop=15;spacingLeft=15;" vertex="1" parent="1">
           <mxGeometry x="500" y="182.5" width="130" height="55" as="geometry" />
@@ -268,6 +268,12 @@
         </mxCell>
         <mxCell id="nqSeQeQGA9JzNGbD2KaU-5" value="Auto Steering System" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="50" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5m7jH_ey4OSm5fEnY_vh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5m7jH_ey4OSm5fEnY_vh-1" target="0iNk8fIJgdGPnu5eEhW5-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5m7jH_ey4OSm5fEnY_vh-1" value="GPS" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;verticalAlign=middle;align=center;spacingTop=0;spacingLeft=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="135" width="70" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
