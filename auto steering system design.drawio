@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T03:02:55.771Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="NPQyyL1zSuixK-fzi3Jl" version="20.8.20" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-13T03:05:54.882Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="SgAd4SVBAo01bUDqeMf6" version="20.8.20" type="github" pages="4">
   <diagram name="CAN bus" id="xhp-JXf3OELfphHlDZzh">
     <mxGraphModel dx="1621" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -235,6 +235,39 @@
         </mxCell>
         <mxCell id="0iNk8fIJgdGPnu5eEhW5-10" value="Steering control unit" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;verticalAlign=top;align=left;spacingTop=15;spacingLeft=15;" vertex="1" parent="1">
           <mxGeometry x="500" y="252.5" width="130" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="nqSeQeQGA9JzNGbD2KaU-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="640" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nqSeQeQGA9JzNGbD2KaU-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="80" as="sourcePoint" />
+            <mxPoint x="640" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nqSeQeQGA9JzNGbD2KaU-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="320" as="sourcePoint" />
+            <mxPoint x="640" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nqSeQeQGA9JzNGbD2KaU-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="390" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="210" />
+              <mxPoint x="220" y="210" />
+              <mxPoint x="220" y="160" />
+              <mxPoint x="390" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nqSeQeQGA9JzNGbD2KaU-5" value="Auto Steering System" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="50" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
