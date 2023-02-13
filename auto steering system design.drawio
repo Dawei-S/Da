@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T02:55:23.896Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="uweMlfONMbVw2w9kzyrB" version="20.8.20" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-13T02:58:14.076Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="XYAYUDd0VvRi8oFE6kEu" version="20.8.20" type="github" pages="4">
   <diagram name="CAN bus" id="xhp-JXf3OELfphHlDZzh">
     <mxGraphModel dx="1621" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -244,6 +244,62 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UXmM28EDLivRmtVoEKUj-1" value="Navigation system" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;verticalAlign=top;align=left;spacingTop=15;spacingLeft=15;" vertex="1" parent="1">
+          <mxGeometry x="170" y="100" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="UXmM28EDLivRmtVoEKUj-2" value="OS" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="200" y="150" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UXmM28EDLivRmtVoEKUj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UXmM28EDLivRmtVoEKUj-5" target="UXmM28EDLivRmtVoEKUj-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="305" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UXmM28EDLivRmtVoEKUj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UXmM28EDLivRmtVoEKUj-5" target="UXmM28EDLivRmtVoEKUj-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="305" y="210" />
+              <mxPoint x="440" y="210" />
+              <mxPoint x="440" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UXmM28EDLivRmtVoEKUj-5" value="ASS core software" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="230" y="170" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UXmM28EDLivRmtVoEKUj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UXmM28EDLivRmtVoEKUj-8" target="UXmM28EDLivRmtVoEKUj-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UXmM28EDLivRmtVoEKUj-8" value="ADAS" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;verticalAlign=top;align=left;spacingTop=15;spacingLeft=15;" vertex="1" parent="1">
+          <mxGeometry x="500" y="95" width="70" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="UXmM28EDLivRmtVoEKUj-9" value="motor control unit" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;verticalAlign=top;align=left;spacingTop=15;spacingLeft=15;" vertex="1" parent="1">
+          <mxGeometry x="500" y="182.5" width="130" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="UXmM28EDLivRmtVoEKUj-10" value="Steering control unit" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;verticalAlign=top;align=left;spacingTop=15;spacingLeft=15;" vertex="1" parent="1">
+          <mxGeometry x="500" y="252.5" width="130" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="UXmM28EDLivRmtVoEKUj-17" value="IVI" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;verticalAlign=top;align=left;spacingTop=15;spacingLeft=15;" vertex="1" parent="1">
+          <mxGeometry x="170" y="340" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="UXmM28EDLivRmtVoEKUj-18" value="OS" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="200" y="390" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UXmM28EDLivRmtVoEKUj-19" value="Other apps" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="230" y="415" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UXmM28EDLivRmtVoEKUj-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UXmM28EDLivRmtVoEKUj-17" target="UXmM28EDLivRmtVoEKUj-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="240" as="sourcePoint" />
+            <mxPoint x="140" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="420" />
+              <mxPoint x="120" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
