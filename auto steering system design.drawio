@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T02:42:18.825Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="sFTfoa-I0w4Z5q8gInEW" version="20.8.20" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-02-13T02:48:09.325Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="XyIX9HNZDdTMUHdq5qwL" version="20.8.20" type="github" pages="3">
   <diagram name="CAN bus" id="xhp-JXf3OELfphHlDZzh">
     <mxGraphModel dx="1621" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -218,7 +218,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0iNk8fIJgdGPnu5eEhW5-5" value="ASS navigation app" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="0iNk8fIJgdGPnu5eEhW5-5" value="ASS core software" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="230" y="170" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0iNk8fIJgdGPnu5eEhW5-6" value="Other apps (e.g. calender)" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
